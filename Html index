@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="om">
+<head>
+
+    <!-- =========================
+         BASIC SETTINGS
+    ========================== -->
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <!-- =========================
+         SEO
+    ========================== -->
+
+    <title>Oromiyaa Digital | Technology • Learning • AI • Creator Platform</title>
+
+    <meta name="description"
+          content="Oromiyaa Digital is a modern platform for AI, Education, Jobs, Marketplace, Creator Economy, Innovation and Community.">
+
+    <meta name="keywords"
+          content="Oromiyaa Digital, AI, Education, Jobs, Marketplace, Crypto, Creator, Innovation, Oromo">
+
+    <meta name="author"
+          content="Oromiyaa Digital">
+
+    <meta name="robots"
+          content="index,follow">
+
+    <!-- =========================
+         THEME
+    ========================== -->
+
+    <meta name="theme-color"
+          content="#0b2a5b">
+
+    <!-- =========================
+         OPEN GRAPH
+    ========================== -->
+
+    <meta property="og:title"
+          content="Oromiyaa Digital">
+
+    <meta property="og:description"
+          content="Technology • Opportunity • Growth For Everyone">
+
+    <meta property="og:type"
+          content="website">
+
+    <meta property="og:image"
+          content="assets/images/cover.jpg">
+
+    <!-- =========================
+         FAVICON
+    ========================== -->
+
+    <link rel="icon"
+          href="assets/images/favicon.png">
+
+    <!-- =========================
+         GOOGLE FONTS
+    ========================== -->
+
+    <link rel="preconnect"
+          href="https://fonts.googleapis.com">
+
+    <link rel="preconnect"
+          href="https://fonts.gstatic.com"
+          crossorigin>
+
+    <!-- =========================
+         CSS
+    ========================== -->
+
+    <link rel="stylesheet"
+          href="style.css">
+
+</head>
+
+<body>
+
+<!-- =========================
+     WEBSITE START
+========================= -->
+
+<div class="website">
