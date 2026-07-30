@@ -86,3 +86,1359 @@
 ========================= -->
 
 <div class="website">
+<!-- =========================
+     HEADER PREMIUM 2.0
+========================= -->
+
+<header class="header" id="header">
+
+    <div class="container">
+
+        <!-- Logo -->
+
+        <a href="index.html" class="logo">
+
+            <div class="logo-icon">
+                🌐
+            </div>
+
+            <div class="logo-text">
+
+                <h2>Oromiyaa Digital</h2>
+
+                <span>
+                    Technology • Opportunity • Growth
+                </span>
+
+            </div>
+
+        </a>
+
+
+        <!-- Search -->
+
+        <div class="header-search">
+
+            <input
+                type="search"
+                id="searchInput"
+                placeholder="Search videos, jobs, AI, learning..."
+                autocomplete="off">
+
+            <button id="searchBtn">
+
+                🔍
+
+            </button>
+
+        </div>
+
+
+        <!-- Navigation -->
+
+        <nav class="navbar" id="navbar">
+
+            <a href="index.html">🏠 Home</a>
+
+            <a href="pages/videos.html">🎥 Videos</a>
+
+            <a href="pages/learning.html">📚 Learn</a>
+
+            <a href="pages/jobs.html">💼 Jobs</a>
+
+            <a href="pages/innovation.html">💡 Innovation</a>
+
+            <a href="pages/crypto.html">🪙 Crypto</a>
+
+            <a href="pages/marketplace.html">🛒 Market</a>
+
+            <a href="pages/chat.html">💬 Chat</a>
+
+            <a href="pages/ai.html">🤖 AI</a>
+
+        </nav>
+
+
+        <!-- Header Actions -->
+
+        <div class="header-actions">
+
+            <!-- Language -->
+
+            <select id="languageSelect">
+
+                <option value="om">
+                    Afaan Oromoo
+                </option>
+
+                <option value="en">
+                    English
+                </option>
+
+                <option value="am">
+                    አማርኛ
+                </option>
+
+            </select>
+
+
+            <!-- Notifications -->
+
+            <button
+                class="icon-btn"
+                id="notificationBtn">
+
+                🔔
+
+            </button>
+
+
+            <!-- Messages -->
+
+            <button
+                class="icon-btn"
+                id="messageBtn">
+
+                💬
+
+            </button>
+
+
+            <!-- AI -->
+
+            <button
+                class="icon-btn"
+                id="assistantBtn">
+
+                🤖
+
+            </button>
+
+
+            <!-- Login -->
+
+            <a
+                href="pages/login.html"
+                class="login-btn">
+
+                Login
+
+            </a>
+
+
+            <!-- Signup -->
+
+            <a
+                href="pages/signup.html"
+                class="signup-btn">
+
+                Sign Up
+
+            </a>
+
+
+            <!-- Profile -->
+
+            <a
+                href="pages/profile.html"
+                class="profile-btn">
+
+                👤
+
+            </a>
+
+
+            <!-- Mobile Menu -->
+
+            <button
+                class="menu-btn"
+                id="menuBtn">
+
+                ☰
+
+            </button>
+
+        </div>
+
+    </div>
+
+</header>
+<!-- =========================
+     HERO SECTION 2.0
+========================= -->
+
+<section class="hero" id="home">
+
+    <div class="container hero-container">
+
+        <!-- Left -->
+
+        <div class="hero-content">
+
+            <span class="hero-badge">
+
+                🚀 Welcome to Oromiyaa Digital
+
+            </span>
+
+            <h1>
+
+                Platform for Learning,
+                Innovation,
+                AI &
+                Creator Economy
+
+            </h1>
+
+            <p>
+
+                Learn, create, earn and connect.
+                Everything in one modern platform.
+
+            </p>
+
+            <div class="hero-buttons">
+
+                <a href="pages/signup.html"
+                   class="primary-btn">
+
+                    🚀 Get Started
+
+                </a>
+
+                <a href="pages/videos.html"
+                   class="secondary-btn">
+
+                    ▶ Explore Videos
+
+                </a>
+
+            </div>
+
+        </div>
+
+
+        <!-- Right -->
+
+        <div class="hero-image">
+
+            <img
+                src="assets/images/hero-image.png"
+                alt="Oromiyaa Digital">
+
+        </div>
+
+    </div>
+
+</section>
+
+
+
+<!-- =========================
+     QUICK ACCESS
+========================= -->
+
+<section class="quick-access">
+
+<div class="container">
+
+<div class="quick-grid">
+
+
+<a href="pages/videos.html" class="quick-card">
+
+🎥
+
+<h3>Videos</h3>
+
+<p>Watch & Share</p>
+
+</a>
+
+
+<a href="pages/learning.html" class="quick-card">
+
+📚
+
+<h3>Learning</h3>
+
+<p>Courses & Tips</p>
+
+</a>
+
+
+<a href="pages/jobs.html" class="quick-card">
+
+💼
+
+<h3>Jobs</h3>
+
+<p>Find Work</p>
+
+</a>
+
+
+<a href="pages/innovation.html" class="quick-card">
+
+💡
+
+<h3>Innovation</h3>
+
+<p>Ideas & Projects</p>
+
+</a>
+
+
+<a href="pages/crypto.html" class="quick-card">
+
+🪙
+
+<h3>Crypto</h3>
+
+<p>Learn Crypto</p>
+
+</a>
+
+
+<a href="pages/ai.html" class="quick-card">
+
+🤖
+
+<h3>AI</h3>
+
+<p>Smart Assistant</p>
+
+</a>
+
+
+<a href="pages/marketplace.html" class="quick-card">
+
+🛒
+
+<h3>Marketplace</h3>
+
+<p>Buy & Sell</p>
+
+</a>
+
+
+<a href="pages/chat.html" class="quick-card">
+
+💬
+
+<h3>Community</h3>
+
+<p>Chat Together</p>
+
+</a>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     TRENDING SECTION
+========================= -->
+
+<section class="trending">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>
+
+🔥 Trending Today
+
+</h2>
+
+<p>
+
+Discover what's popular today.
+
+</p>
+
+</div>
+
+
+<div class="trending-grid">
+
+
+<div class="trend-card">
+
+🎥
+
+<h3>
+
+Trending Videos
+
+</h3>
+
+<p>
+
+Most watched videos today.
+
+</p>
+
+<a href="pages/videos.html">
+
+View All →
+
+</a>
+
+</div>
+
+
+
+<div class="trend-card">
+
+📝
+
+<h3>
+
+Popular Posts
+
+</h3>
+
+<p>
+
+Most liked community posts.
+
+</p>
+
+<a href="pages/posts.html">
+
+View All →
+
+</a>
+
+</div>
+
+
+
+<div class="trend-card">
+
+📚
+
+<h3>
+
+Learning
+
+</h3>
+
+<p>
+
+Today's best learning content.
+
+</p>
+
+<a href="pages/learning.html">
+
+View All →
+
+</a>
+
+</div>
+
+
+
+<div class="trend-card">
+
+💼
+
+<h3>
+
+Jobs
+
+</h3>
+
+<p>
+
+Latest opportunities.
+
+</p>
+
+<a href="pages/jobs.html">
+
+View All →
+
+</a>
+
+</div>
+
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     FOR YOU FEED
+========================= -->
+
+<section class="feed-section" id="feed">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>🔥 For You</h2>
+
+<a href="pages/feed.html" class="see-all">
+
+See All →
+
+</a>
+
+</div>
+
+
+<div class="feed-grid">
+
+<!-- CARD 1 -->
+
+<article class="feed-card">
+
+<div class="feed-thumbnail">
+
+<img
+src="assets/images/video1.jpg"
+alt="Trending Video">
+
+<span class="feed-type">
+
+🎥 Video
+
+</span>
+
+</div>
+
+<div class="feed-content">
+
+<h3>
+
+How to Learn Programming Faster
+
+</h3>
+
+<p>
+
+Start coding with simple projects.
+
+</p>
+
+<div class="feed-footer">
+
+<span>❤️ 2.4K</span>
+
+<span>💬 320</span>
+
+<span>👁 18K</span>
+
+</div>
+
+<a href="pages/videos.html"
+class="watch-btn">
+
+Watch Now
+
+</a>
+
+</div>
+
+</article>
+
+
+<!-- CARD 2 -->
+
+<article class="feed-card">
+
+<div class="feed-thumbnail">
+
+<img
+src="assets/images/job1.jpg"
+alt="Job Opportunity">
+
+<span class="feed-type">
+
+💼 Job
+
+</span>
+
+</div>
+
+<div class="feed-content">
+
+<h3>
+
+Remote Front-End Developer
+
+</h3>
+
+<p>
+
+Apply for international jobs.
+
+</p>
+
+<div class="feed-footer">
+
+<span>🌍 Remote</span>
+
+<span>💰 Full Time</span>
+
+</div>
+
+<a
+href="pages/jobs.html"
+class="watch-btn">
+
+View Job
+
+</a>
+
+</div>
+
+</article>
+
+
+<!-- CARD 3 -->
+
+<article class="feed-card">
+
+<div class="feed-thumbnail">
+
+<img
+src="assets/images/crypto1.jpg"
+alt="Crypto">
+
+<span class="feed-type">
+
+🪙 Crypto
+
+</span>
+
+</div>
+
+<div class="feed-content">
+
+<h3>
+
+Crypto Basics
+
+</h3>
+
+<p>
+
+Learn safely before investing.
+
+</p>
+
+<div class="feed-footer">
+
+<span>📚 Lesson</span>
+
+<span>⭐ Beginner</span>
+
+</div>
+
+<a
+href="pages/crypto.html"
+class="watch-btn">
+
+Start Learning
+
+</a>
+
+</div>
+
+</article>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- Feed Actions -->
+
+<div class="feed-actions">
+
+<button class="action-btn">
+
+❤️
+
+<span>
+
+Like
+
+</span>
+
+</button>
+
+
+<button class="action-btn">
+
+💬
+
+<span>
+
+Comment
+
+</span>
+
+</button>
+
+
+<button class="action-btn">
+
+🔄
+
+<span>
+
+Share
+
+</span>
+
+</button>
+
+
+<button class="action-btn">
+
+🔖
+
+<span>
+
+Save
+
+</span>
+
+</button>
+
+</div>
+<div class="creator-box">
+
+<div class="creator-avatar">
+
+👤
+
+</div>
+
+<div class="creator-info">
+
+<h4>
+
+Creator Name
+
+</h4>
+
+<p>
+
+Programming Creator
+
+</p>
+
+</div>
+
+
+<button class="follow-btn">
+
+Follow
+
+</button>
+
+</div>
+<div class="ai-recommendation">
+
+<div class="ai-icon">
+
+🤖
+
+</div>
+
+<div>
+
+<h4>
+
+AI Recommendation
+
+</h4>
+
+<p>
+
+You may also like today's Programming Lesson.
+
+</p>
+
+</div>
+
+</div>
+<!-- =========================
+     DAILY MISSION
+========================= -->
+
+<section class="daily-mission">
+
+<div class="container">
+
+<div class="section-title">
+
+<h2>
+🎯 Daily Mission
+</h2>
+
+<p>
+
+Complete missions and grow your digital skills.
+
+</p>
+
+</div>
+
+
+<div class="mission-grid">
+
+
+<div class="mission-card">
+
+<div class="mission-icon">
+
+📚
+
+</div>
+
+<h3>
+
+Watch Learning Video
+
+</h3>
+
+<p>
+
+Complete one learning lesson today.
+
+</p>
+
+<span class="xp">
+
++20 XP
+
+</span>
+
+</div>
+
+
+
+<div class="mission-card">
+
+<div class="mission-icon">
+
+🤖
+
+</div>
+
+<h3>
+
+Ask AI
+
+</h3>
+
+<p>
+
+Ask one useful question.
+
+</p>
+
+<span class="xp">
+
++10 XP
+
+</span>
+
+</div>
+
+
+
+<div class="mission-card">
+
+<div class="mission-icon">
+
+💼
+
+</div>
+
+<h3>
+
+Explore Jobs
+
+</h3>
+
+<p>
+
+View today's opportunities.
+
+</p>
+
+<span class="xp">
+
++15 XP
+
+</span>
+
+</div>
+
+
+
+<div class="mission-card">
+
+<div class="mission-icon">
+
+🎥
+
+</div>
+
+<h3>
+
+Create Content
+
+</h3>
+
+<p>
+
+Upload a post or video.
+
+</p>
+
+<span class="xp">
+
++30 XP
+
+</span>
+
+</div>
+
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     USER PROGRESS
+========================= -->
+
+<section class="user-progress">
+
+<div class="container">
+
+<div class="progress-card">
+
+<h2>
+
+🏆 Your Progress
+
+</h2>
+
+<p>
+
+Level 1 Creator
+
+</p>
+
+<div class="progress-bar">
+
+<div class="progress-fill">
+
+</div>
+
+</div>
+
+<p>
+
+XP: 120 / 500
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     BADGES
+========================= -->
+
+<section class="badges">
+
+<div class="container">
+
+<h2>
+
+🎖 Your Badges
+
+</h2>
+
+<div class="badge-grid">
+
+<div class="badge-card">
+
+📚
+
+<h3>
+
+Learner
+
+</h3>
+
+</div>
+
+<div class="badge-card">
+
+🤖
+
+<h3>
+
+AI Explorer
+
+</h3>
+
+</div>
+
+<div class="badge-card">
+
+🎥
+
+<h3>
+
+Creator
+
+</h3>
+
+</div>
+
+<div class="badge-card">
+
+💼
+
+<h3>
+
+Job Hunter
+
+</h3>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     FEATURED CREATORS
+========================= -->
+
+<section class="featured-creators">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>🌟 Featured Creators</h2>
+
+<a href="pages/creator.html" class="see-all">
+
+See All →
+
+</a>
+
+</div>
+
+<div class="creator-grid">
+
+<div class="creator-card">
+
+<div class="creator-avatar">
+
+👨‍💻
+
+</div>
+
+<h3>Programming Creator</h3>
+
+<p>Programming • AI • Web Development</p>
+
+<button class="follow-btn">
+
+Follow
+
+</button>
+
+</div>
+
+<div class="creator-card">
+
+<div class="creator-avatar">
+
+🎨
+
+</div>
+
+<h3>Design Creator</h3>
+
+<p>UI/UX • Graphics • Creativity</p>
+
+<button class="follow-btn">
+
+Follow
+
+</button>
+
+</div>
+
+<div class="creator-card">
+
+<div class="creator-avatar">
+
+🎙️
+
+</div>
+
+<h3>Podcast Creator</h3>
+
+<p>Technology • Business • Stories</p>
+
+<button class="follow-btn">
+
+Follow
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     LIVE EVENTS PREVIEW
+========================= -->
+
+<section class="live-events">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>📺 Live Events</h2>
+
+<a href="pages/live.html" class="see-all">
+
+View All →
+
+</a>
+
+</div>
+
+<div class="live-card">
+
+<div class="live-badge">
+
+🔴 LIVE
+
+</div>
+
+<h3>
+
+AI Innovation Conference
+
+</h3>
+
+<p>
+
+Join live discussions and workshops.
+
+</p>
+
+<button class="primary-btn">
+
+Join Live
+
+</button>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     PODCAST PREVIEW
+========================= -->
+
+<section class="podcasts">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>🎙️ Podcasts</h2>
+
+<a href="pages/podcasts.html" class="see-all">
+
+See All →
+
+</a>
+
+</div>
+
+<div class="podcast-card">
+
+🎧
+
+<h3>
+
+Technology Podcast
+
+</h3>
+
+<p>
+
+Listen while learning.
+
+</p>
+
+<button class="primary-btn">
+
+Listen Now
+
+</button>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     LEARNING GAMES
+========================= -->
+
+<section class="learning-games">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>🎮 Learning Games</h2>
+
+<a href="pages/games.html" class="see-all">
+
+Play →
+
+</a>
+
+</div>
+
+<div class="game-grid">
+
+<div class="game-card">
+
+🧠
+
+<h3>
+
+Programming Quiz
+
+</h3>
+
+</div>
+
+<div class="game-card">
+
+🤖
+
+<h3>
+
+AI Challenge
+
+</h3>
+
+</div>
+
+<div class="game-card">
+
+🪙
+
+<h3>
+
+Crypto Quiz
+
+</h3>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     INNOVATION HUB PREVIEW
+========================= -->
+
+<section class="innovation-preview">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>💡 Innovation Hub</h2>
+
+<a href="pages/innovation.html" class="see-all">
+
+Explore →
+
+</a>
+
+</div>
+
+<div class="innovation-card">
+
+<h3>
+
+Turn Ideas Into Reality
+
+</h3>
+
+<p>
+
+Share your ideas, build projects, find teammates and investors.
+
+</p>
+
+<button class="primary-btn">
+
+Start Innovating
+
+</button>
+
+</div>
+
+</div>
+
+</section>
