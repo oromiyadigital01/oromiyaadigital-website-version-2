@@ -1442,3 +1442,2122 @@ Start Innovating
 </div>
 
 </section>
+<!-- =========================
+     OROMIYAA AI CENTER
+========================= -->
+
+<section class="ai-center" id="ai">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🤖 Oromiyaa AI Center
+</h2>
+
+<p>
+
+Your smart digital assistant for learning,
+creating and growing.
+
+</p>
+
+</div>
+
+
+<div class="ai-grid">
+
+<!-- AI CHAT -->
+
+<div class="ai-card">
+
+<div class="ai-icon">
+
+💬
+
+</div>
+
+<h3>
+
+AI Chat
+
+</h3>
+
+<p>
+
+Ask anything in Afaan Oromoo,
+English or Amharic.
+
+</p>
+
+<a href="pages/ai.html"
+class="primary-btn">
+
+Open AI
+
+</a>
+
+</div>
+
+
+<!-- AI WRITER -->
+
+<div class="ai-card">
+
+<div class="ai-icon">
+
+✍️
+
+</div>
+
+<h3>
+
+AI Writer
+
+</h3>
+
+<p>
+
+Create posts,
+articles and messages.
+
+</p>
+
+<a href="pages/ai.html"
+class="primary-btn">
+
+Write
+
+</a>
+
+</div>
+
+
+<!-- AI LEARNING -->
+
+<div class="ai-card">
+
+<div class="ai-icon">
+
+📚
+
+</div>
+
+<h3>
+
+AI Learning
+
+</h3>
+
+<p>
+
+Learn Programming,
+Business,
+Crypto and more.
+
+</p>
+
+<a href="pages/learning.html"
+class="primary-btn">
+
+Learn
+
+</a>
+
+</div>
+
+
+<!-- AI CREATOR -->
+
+<div class="ai-card">
+
+<div class="ai-icon">
+
+🎥
+
+</div>
+
+<h3>
+
+AI Creator
+
+</h3>
+
+<p>
+
+Generate video ideas,
+titles and descriptions.
+
+</p>
+
+<a href="pages/creator.html"
+class="primary-btn">
+
+Create
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     CRYPTO HUB
+========================= -->
+
+<section class="crypto-hub" id="crypto">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🪙 Crypto Hub
+</h2>
+
+<p>
+
+Learn blockchain, crypto,
+Web3 and digital finance safely.
+
+</p>
+
+<a href="pages/crypto.html" class="see-all">
+
+Explore →
+
+</a>
+
+</div>
+
+
+<div class="crypto-grid">
+
+<!-- CARD 1 -->
+
+<div class="crypto-card">
+
+<div class="crypto-icon">
+
+📚
+
+</div>
+
+<h3>
+
+Crypto Academy
+
+</h3>
+
+<p>
+
+Beginner to Advanced
+crypto learning.
+
+</p>
+
+<a href="pages/crypto.html"
+class="primary-btn">
+
+Start Learning
+
+</a>
+
+</div>
+
+
+<!-- CARD 2 -->
+
+<div class="crypto-card">
+
+<div class="crypto-icon">
+
+📈
+
+</div>
+
+<h3>
+
+Market Watch
+
+</h3>
+
+<p>
+
+Follow market trends
+and prices.
+
+</p>
+
+<a href="pages/market.html"
+class="primary-btn">
+
+View Market
+
+</a>
+
+</div>
+
+
+<!-- CARD 3 -->
+
+<div class="crypto-card">
+
+<div class="crypto-icon">
+
+🛡️
+
+</div>
+
+<h3>
+
+Stay Safe
+
+</h3>
+
+<p>
+
+Learn how to avoid scams
+and protect your wallet.
+
+</p>
+
+<a href="pages/security.html"
+class="primary-btn">
+
+Learn Safety
+
+</a>
+
+</div>
+
+
+<!-- CARD 4 -->
+
+<div class="crypto-card">
+
+<div class="crypto-icon">
+
+💼
+
+</div>
+
+<h3>
+
+Web3 Careers
+
+</h3>
+
+<p>
+
+Discover blockchain
+career opportunities.
+
+</p>
+
+<a href="pages/jobs.html"
+class="primary-btn">
+
+Explore Jobs
+
+</a>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     CREATOR ECONOMY
+========================= -->
+
+<section class="creator-economy" id="creator">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+💰 Creator Economy
+</h2>
+
+<p>
+
+Create. Share. Earn.
+
+Turn your skills into income.
+
+</p>
+
+<a href="pages/creator.html"
+class="see-all">
+
+Become a Creator →
+
+</a>
+
+</div>
+
+
+<div class="creator-grid">
+
+
+<!-- VIDEO -->
+
+<div class="creator-card">
+
+<div class="creator-icon">
+
+🎥
+
+</div>
+
+<h3>
+
+Upload Videos
+
+</h3>
+
+<p>
+
+Share educational,
+technology and entertainment videos.
+
+</p>
+
+</div>
+
+
+<!-- POSTS -->
+
+<div class="creator-card">
+
+<div class="creator-icon">
+
+📝
+
+</div>
+
+<h3>
+
+Write Posts
+
+</h3>
+
+<p>
+
+Publish articles,
+stories and ideas.
+
+</p>
+
+</div>
+
+
+<!-- COURSES -->
+
+<div class="creator-card">
+
+<div class="creator-icon">
+
+📚
+
+</div>
+
+<h3>
+
+Sell Courses
+
+</h3>
+
+<p>
+
+Teach your skills
+to the world.
+
+</p>
+
+</div>
+
+
+<!-- PODCAST -->
+
+<div class="creator-card">
+
+<div class="creator-icon">
+
+🎙️
+
+</div>
+
+<h3>
+
+Podcasts
+
+</h3>
+
+<p>
+
+Create audio content
+for your audience.
+
+</p>
+
+</div>
+
+
+<!-- DIGITAL PRODUCTS -->
+
+<div class="creator-card">
+
+<div class="creator-icon">
+
+💎
+
+</div>
+
+<h3>
+
+Digital Products
+
+</h3>
+
+<p>
+
+Sell ebooks,
+templates and digital files.
+
+</p>
+
+</div>
+
+
+<!-- LIVE -->
+
+<div class="creator-card">
+
+<div class="creator-icon">
+
+📺
+
+</div>
+
+<h3>
+
+Go Live
+
+</h3>
+
+<p>
+
+Teach and connect
+with your followers.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     SMART PROFILE
+========================= -->
+
+<section class="smart-profile" id="profile">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+👤 Smart Profile
+</h2>
+
+<p>
+
+Build your digital identity and showcase your skills.
+
+</p>
+
+<a href="pages/profile.html"
+class="see-all">
+
+Open Profile →
+
+</a>
+
+</div>
+
+
+<div class="profile-card">
+
+<div class="profile-cover">
+
+🌄 Cover Photo
+
+</div>
+
+
+<div class="profile-info">
+
+<div class="profile-avatar">
+
+👤
+
+</div>
+
+<h3>
+
+Your Name
+
+</h3>
+
+<p>
+
+Creator • Learner • Innovator
+
+</p>
+
+</div>
+
+
+<div class="profile-stats">
+
+<div>
+
+<h4>120</h4>
+
+<span>Posts</span>
+
+</div>
+
+<div>
+
+<h4>45</h4>
+
+<span>Videos</span>
+
+</div>
+
+<div>
+
+<h4>18K</h4>
+
+<span>Followers</span>
+
+</div>
+
+<div>
+
+<h4>12</h4>
+
+<span>Badges</span>
+
+</div>
+
+</div>
+
+
+<div class="profile-actions">
+
+<button class="primary-btn">
+
+Edit Profile
+
+</button>
+
+<button class="secondary-btn">
+
+Share Profile
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+
+
+<!-- =========================
+     DIGITAL PORTFOLIO
+========================= -->
+
+<section class="digital-portfolio">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+
+💼 Digital Portfolio
+
+</h2>
+
+<p>
+
+Show your projects,
+skills and achievements.
+
+</p>
+
+</div>
+
+
+<div class="portfolio-grid">
+
+
+<div class="portfolio-card">
+
+💻
+
+<h3>
+
+Projects
+
+</h3>
+
+</div>
+
+
+<div class="portfolio-card">
+
+📚
+
+<h3>
+
+Certificates
+
+</h3>
+
+</div>
+
+
+<div class="portfolio-card">
+
+🎥
+
+<h3>
+
+Videos
+
+</h3>
+
+</div>
+
+
+<div class="portfolio-card">
+
+📝
+
+<h3>
+
+Articles
+
+</h3>
+
+</div>
+
+
+<div class="portfolio-card">
+
+🏆
+
+<h3>
+
+Achievements
+
+</h3>
+
+</div>
+
+
+<div class="portfolio-card">
+
+💼
+
+<h3>
+
+Experience
+
+</h3>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     COMMUNITY CENTER
+========================= -->
+
+<section class="community-center" id="community">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+
+🌍 Community Center
+
+</h2>
+
+<p>
+
+Connect, learn and grow together.
+
+</p>
+
+<a href="pages/community.html"
+class="see-all">
+
+Explore →
+
+</a>
+
+</div>
+
+
+<div class="community-grid">
+
+<div class="community-card">
+
+👨‍💻
+
+<h3>
+
+Programming Community
+
+</h3>
+
+<p>
+
+Learn coding together.
+
+</p>
+
+<button class="primary-btn">
+
+Join
+
+</button>
+
+</div>
+
+
+
+<div class="community-card">
+
+🤖
+
+<h3>
+
+AI Community
+
+</h3>
+
+<p>
+
+Discuss AI and technology.
+
+</p>
+
+<button class="primary-btn">
+
+Join
+
+</button>
+
+</div>
+
+
+
+<div class="community-card">
+
+🪙
+
+<h3>
+
+Crypto Community
+
+</h3>
+
+<p>
+
+Learn Web3 safely.
+
+</p>
+
+<button class="primary-btn">
+
+Join
+
+</button>
+
+</div>
+
+
+
+<div class="community-card">
+
+💼
+
+<h3>
+
+Business Community
+
+</h3>
+
+<p>
+
+Entrepreneurship & Startups.
+
+</p>
+
+<button class="primary-btn">
+
+Join
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     GROUP CHAT
+========================= -->
+
+<section class="group-chat">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+
+💬 Group Chat
+
+</h2>
+
+<p>
+
+Talk with people who share your interests.
+
+</p>
+
+</div>
+
+
+<div class="group-grid">
+
+<div class="group-card">
+
+📚 Study Group
+
+</div>
+
+<div class="group-card">
+
+💼 Business Group
+
+</div>
+
+<div class="group-card">
+
+🤖 AI Group
+
+</div>
+
+<div class="group-card">
+
+🎥 Creator Group
+
+</div>
+
+<div class="group-card">
+
+💡 Innovation Team
+
+</div>
+
+<div class="group-card">
+
+🪙 Crypto Group
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     MARKETPLACE 2.0
+========================= -->
+
+<section class="marketplace" id="marketplace">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+
+🛒 Marketplace
+
+</h2>
+
+<p>
+
+Buy, Sell and Grow your business.
+
+</p>
+
+<a href="pages/marketplace.html"
+class="see-all">
+
+Explore →
+
+</a>
+
+</div>
+
+
+<div class="market-grid">
+
+<div class="market-card">
+
+📱
+
+<h3>
+
+Electronics
+
+</h3>
+
+<p>
+
+Phones, laptops and accessories.
+
+</p>
+
+</div>
+
+
+<div class="market-card">
+
+💎
+
+<h3>
+
+Digital Products
+
+</h3>
+
+<p>
+
+Templates, ebooks and digital files.
+
+</p>
+
+</div>
+
+
+<div class="market-card">
+
+💻
+
+<h3>
+
+Freelance Services
+
+</h3>
+
+<p>
+
+Programming, design and writing.
+
+</p>
+
+</div>
+
+
+<div class="market-card">
+
+🎨
+
+<h3>
+
+Creative Market
+
+</h3>
+
+<p>
+
+Graphics, logos and branding.
+
+</p>
+
+</div>
+
+
+<div class="market-card">
+
+📚
+
+<h3>
+
+Courses
+
+</h3>
+
+<p>
+
+Sell your own online courses.
+
+</p>
+
+</div>
+
+
+<div class="market-card">
+
+🛍
+
+<h3>
+
+Local Business
+
+</h3>
+
+<p>
+
+Support local businesses.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     FEATURED BUSINESSES
+========================= -->
+
+<section class="featured-business">
+
+<div class="container">
+
+<h2>
+
+⭐ Featured Businesses
+
+</h2>
+
+<div class="business-grid">
+
+<div class="business-card">
+
+🏪
+
+<h3>
+
+Business Name
+
+</h3>
+
+<p>
+
+Technology Store
+
+</p>
+
+<button class="primary-btn">
+
+Visit Shop
+
+</button>
+
+</div>
+
+
+<div class="business-card">
+
+☕
+
+<h3>
+
+Coffee Shop
+
+</h3>
+
+<p>
+
+Local Business
+
+</p>
+
+<button class="primary-btn">
+
+Visit Shop
+
+</button>
+
+</div>
+
+
+<div class="business-card">
+
+👕
+
+<h3>
+
+Fashion Store
+
+</h3>
+
+<p>
+
+Clothes & Accessories
+
+</p>
+
+<button class="primary-btn">
+
+Visit Shop
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     JOBS CENTER
+========================= -->
+
+<section class="jobs-center" id="jobs">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+💼 Jobs Center
+</h2>
+
+<p>
+
+Find jobs, internships and freelance opportunities.
+
+</p>
+
+<a href="pages/jobs.html"
+class="see-all">
+
+Explore Jobs →
+
+</a>
+
+</div>
+
+
+<div class="jobs-grid">
+
+<div class="job-card">
+
+💻
+
+<h3>
+
+Remote Jobs
+
+</h3>
+
+<p>
+
+Work from anywhere.
+
+</p>
+
+<button class="primary-btn">
+
+Browse
+
+</button>
+
+</div>
+
+
+<div class="job-card">
+
+🏢
+
+<h3>
+
+Company Jobs
+
+</h3>
+
+<p>
+
+Find jobs from trusted companies.
+
+</p>
+
+<button class="primary-btn">
+
+Browse
+
+</button>
+
+</div>
+
+
+<div class="job-card">
+
+🚀
+
+<h3>
+
+Startup Jobs
+
+</h3>
+
+<p>
+
+Join fast-growing startups.
+
+</p>
+
+<button class="primary-btn">
+
+Browse
+
+</button>
+
+</div>
+
+
+<div class="job-card">
+
+💼
+
+<h3>
+
+Freelance Jobs
+
+</h3>
+
+<p>
+
+Programming, design and writing.
+
+</p>
+
+<button class="primary-btn">
+
+Browse
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     CV BUILDER
+========================= -->
+
+<section class="cv-builder">
+
+<div class="container">
+
+<div class="cv-card">
+
+<h2>
+
+📄 AI CV Builder
+
+</h2>
+
+<p>
+
+Create a professional CV in minutes.
+
+</p>
+
+<button class="primary-btn">
+
+Build My CV
+
+</button>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     AI CAREER COACH
+========================= -->
+
+<section class="career-coach">
+
+<div class="container">
+
+<div class="coach-card">
+
+<div class="coach-icon">
+
+🤖
+
+</div>
+
+<h2>
+
+AI Career Coach
+
+</h2>
+
+<p>
+
+Get personalized career guidance, interview tips and learning recommendations.
+
+</p>
+
+<button class="primary-btn">
+
+Ask AI
+
+</button>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     FEATURED COMPANIES
+========================= -->
+
+<section class="featured-companies">
+
+<div class="container">
+
+<h2>
+
+🏢 Featured Companies
+
+</h2>
+
+<div class="company-grid">
+
+<div class="company-card">
+
+🏢
+
+<h3>
+
+Technology Company
+
+</h3>
+
+<p>
+
+Software & AI
+
+</p>
+
+</div>
+
+<div class="company-card">
+
+🏦
+
+<h3>
+
+Financial Company
+
+</h3>
+
+<p>
+
+Finance & Banking
+
+</p>
+
+</div>
+
+<div class="company-card">
+
+🏥
+
+<h3>
+
+Healthcare Company
+
+</h3>
+
+<p>
+
+Health & Medical
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     LEARNING CENTER
+========================= -->
+
+<section class="learning-center" id="learning">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+📚 Learning Center
+</h2>
+
+<p>
+
+Learn today's most valuable skills from experts and AI.
+
+</p>
+
+<a href="pages/learning.html" class="see-all">
+
+Explore Learning →
+
+</a>
+
+</div>
+
+
+<div class="learning-grid">
+
+<div class="learning-card">
+
+💻
+
+<h3>
+
+Programming
+
+</h3>
+
+<p>
+
+HTML, CSS, JavaScript, Python, Java and more.
+
+</p>
+
+</div>
+
+
+<div class="learning-card">
+
+🤖
+
+<h3>
+
+Artificial Intelligence
+
+</h3>
+
+<p>
+
+Learn AI tools and machine learning.
+
+</p>
+
+</div>
+
+
+<div class="learning-card">
+
+🪙
+
+<h3>
+
+Crypto & Blockchain
+
+</h3>
+
+<p>
+
+Understand blockchain and Web3 safely.
+
+</p>
+
+</div>
+
+
+<div class="learning-card">
+
+📈
+
+<h3>
+
+Business
+
+</h3>
+
+<p>
+
+Entrepreneurship and digital marketing.
+
+</p>
+
+</div>
+
+
+<div class="learning-card">
+
+🎨
+
+<h3>
+
+Design
+
+</h3>
+
+<p>
+
+UI/UX, graphics and branding.
+
+</p>
+
+</div>
+
+
+<div class="learning-card">
+
+🌍
+
+<h3>
+
+Languages
+
+</h3>
+
+<p>
+
+Learn Afaan Oromoo, English and more.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     FEATURED COURSES
+========================= -->
+
+<section class="featured-courses">
+
+<div class="container">
+
+<h2>
+
+🎓 Featured Courses
+
+</h2>
+
+<div class="course-grid">
+
+<div class="course-card">
+
+💻 HTML & CSS Masterclass
+
+</div>
+
+<div class="course-card">
+
+🤖 AI for Beginners
+
+</div>
+
+<div class="course-card">
+
+🪙 Crypto Fundamentals
+
+</div>
+
+<div class="course-card">
+
+📈 Digital Marketing
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     AI TUTOR
+========================= -->
+
+<section class="ai-tutor">
+
+<div class="container">
+
+<div class="tutor-card">
+
+🤖
+
+<h2>
+
+AI Tutor
+
+</h2>
+
+<p>
+
+Ask questions, get explanations and practice with AI.
+
+</p>
+
+<button class="primary-btn">
+
+Start Learning
+
+</button>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     LEARNING PROGRESS
+========================= -->
+
+<section class="learning-progress">
+
+<div class="container">
+
+<div class="progress-card">
+
+<h2>
+
+📊 Learning Progress
+
+</h2>
+
+<div class="progress-bar">
+
+<div class="progress-fill">
+
+</div>
+
+</div>
+
+<p>
+
+Completed: 45%
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     GLOBAL IMPACT
+========================= -->
+
+<section class="global-impact">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+
+🌍 Our Global Impact
+
+</h2>
+
+<p>
+
+Growing together across the world.
+
+</p>
+
+</div>
+
+<div class="impact-grid">
+
+<div class="impact-card">
+
+👥
+
+<h3>
+
+100K+
+
+</h3>
+
+<p>
+
+Users
+
+</p>
+
+</div>
+
+<div class="impact-card">
+
+🎥
+
+<h3>
+
+50K+
+
+</h3>
+
+<p>
+
+Videos
+
+</p>
+
+</div>
+
+<div class="impact-card">
+
+📚
+
+<h3>
+
+5K+
+
+</h3>
+
+<p>
+
+Courses
+
+</p>
+
+</div>
+
+<div class="impact-card">
+
+💼
+
+<h3>
+
+10K+
+
+</h3>
+
+<p>
+
+Jobs
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     SUCCESS STORIES
+========================= -->
+
+<section class="success-stories">
+
+<div class="container">
+
+<h2>
+
+❤️ Success Stories
+
+</h2>
+
+<div class="story-grid">
+
+<div class="story-card">
+
+🎓
+
+<h3>
+
+Learning Success
+
+</h3>
+
+<p>
+
+Learned programming and got a job.
+
+</p>
+
+</div>
+
+<div class="story-card">
+
+🎥
+
+<h3>
+
+Creator Success
+
+</h3>
+
+<p>
+
+Started creating videos and earned income.
+
+</p>
+
+</div>
+
+<div class="story-card">
+
+💼
+
+<h3>
+
+Business Success
+
+</h3>
+
+<p>
+
+Grew a small business using Oromiyaa Digital.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     FAQ
+========================= -->
+
+<section class="faq-section">
+
+<div class="container">
+
+<h2>
+
+❓ Frequently Asked Questions
+
+</h2>
+
+<div class="faq-card">
+
+<h3>
+
+Is Oromiyaa Digital free?
+
+</h3>
+
+<p>
+
+Yes. Most learning resources are free.
+
+</p>
+
+</div>
+
+<div class="faq-card">
+
+<h3>
+
+Can I earn money?
+
+</h3>
+
+<p>
+
+Yes. Through courses, videos, digital products and services.
+
+</p>
+
+</div>
+
+<div class="faq-card">
+
+<h3>
+
+Can AI help me?
+
+</h3>
+
+<p>
+
+Yes. AI supports learning, writing, coding and more.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     DOWNLOAD APP
+========================= -->
+
+<section class="download-app">
+
+<div class="container">
+
+<h2>
+
+📱 Download Oromiyaa Digital
+
+</h2>
+
+<p>
+
+Available soon on Android and iOS.
+
+</p>
+
+<div class="download-buttons">
+
+<button class="primary-btn">
+
+▶ Google Play
+
+</button>
+
+<button class="secondary-btn">
+
+ App Store
+
+</button>
+
+</div>
+
+</div>
+
+</section>
+<!-- =========================
+     NEWSLETTER
+========================= -->
+
+<section class="newsletter">
+
+<div class="container">
+
+<h2>
+
+📧 Stay Updated
+
+</h2>
+
+<p>
+
+Get the latest news and learning updates.
+
+</p>
+
+<input
+type="email"
+placeholder="Enter your email">
+
+<button class="primary-btn">
+
+Subscribe
+
+</button>
+
+</div>
+
+</section>
+<!-- =========================
+     FINAL CTA
+========================= -->
+
+<section class="final-cta">
+
+<div class="container">
+
+<h2>
+
+🚀 Build Your Future With Oromiyaa Digital
+
+</h2>
+
+<p>
+
+Learn. Create. Earn. Connect. Innovate. Grow.
+
+</p>
+
+<div class="cta-buttons">
+
+<a href="pages/signup.html"
+class="primary-btn">
+
+Create Account
+
+</a>
+
+<a href="pages/learning.html"
+class="secondary-btn">
+
+Start Learning
+
+</a>
+
+</div>
+
+</div>
+
+</section>
