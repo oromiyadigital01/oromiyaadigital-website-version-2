@@ -3561,3 +3561,2042 @@ Start Learning
 </div>
 
 </section>
+<!-- ==========================================
+     CREATOR FEED
+========================================== -->
+
+<section class="creator-feed section">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🎥 Creator Feed
+</h2>
+
+<p>
+
+Video, suuraa, barruu, podcast fi live content uummata keenyaan uumame ilaali.
+
+</p>
+
+</div>
+
+<div class="creator-grid">
+
+<div class="creator-card">
+
+<div class="creator-top">
+
+<div class="creator-avatar">
+👤
+</div>
+
+<div>
+
+<h3>
+@Creator01
+</h3>
+
+<span>
+Programming
+</span>
+
+</div>
+
+</div>
+
+<div class="creator-media">
+
+<img
+src="assets/images/programming.jpg"
+alt="Programming">
+
+</div>
+
+<h4>
+💻 HTML fi CSS jalqabaa baradhu
+</h4>
+
+<p>
+
+Barnoota salphaa fi qulqulluu.
+
+</p>
+
+<div class="creator-actions">
+
+<button>
+❤️ 2.4K
+</button>
+
+<button>
+💬 340
+</button>
+
+<button>
+📤 Share
+</button>
+
+<button>
+🔖 Save
+</button>
+
+</div>
+
+</div>
+
+<div class="creator-card">
+
+<div class="creator-top">
+
+<div class="creator-avatar">
+🤖
+</div>
+
+<div>
+
+<h3>
+@AIOromiyaa
+</h3>
+
+<span>
+Artificial Intelligence
+</span>
+
+</div>
+
+</div>
+
+<div class="creator-media">
+
+<img
+src="assets/images/ai.jpg"
+alt="AI">
+
+</div>
+
+<h4>
+🤖 AI Afaan Oromoo
+</h4>
+
+<p>
+
+AI hojii, barnoota fi jireenya keessatti akkamitti fayyada?
+
+</p>
+
+<div class="creator-actions">
+
+<button>
+❤️ 4.8K
+</button>
+
+<button>
+💬 890
+</button>
+
+<button>
+📤 Share
+</button>
+
+<button>
+🔖 Save
+</button>
+
+</div>
+
+</div>
+
+<div class="creator-card">
+
+<div class="creator-top">
+
+<div class="creator-avatar">
+🪙
+</div>
+
+<div>
+
+<h3>
+@CryptoHub
+</h3>
+
+<span>
+Crypto
+</span>
+
+</div>
+
+</div>
+
+<div class="creator-media">
+
+<img
+src="assets/images/crypto.jpg"
+alt="Crypto">
+
+</div>
+
+<h4>
+🪙 Crypto Academy
+</h4>
+
+<p>
+
+Blockchain fi Cryptocurrency salphaatti baradhu.
+
+</p>
+
+<div class="creator-actions">
+
+<button>
+❤️ 6.1K
+</button>
+
+<button>
+💬 1.2K
+</button>
+
+<button>
+📤 Share
+</button>
+
+<button>
+🔖 Save
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section><!-- ==========================================
+     CRYPTO HUB PREMIUM
+========================================== -->
+
+<section class="crypto-hub section">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🪙 Crypto Hub
+</h2>
+
+<p>
+
+Blockchain, Cryptocurrency, Web3 fi Digital Finance Afaan Oromootti baradhu.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+📚 Crypto Academy
+</h3>
+
+<p>
+
+Bitcoin, Ethereum, Blockchain fi Web3 sadarkaa jalqabaa irraa baradhu.
+
+</p>
+
+<button class="primary-btn">
+
+Baradhu
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+📈 Live Market
+</h3>
+
+<p>
+
+Gatii cryptocurrency yeroo ammaa hordofi.
+
+</p>
+
+<button class="primary-btn">
+
+Market Ilaali
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+👛 Digital Wallet
+</h3>
+
+<p>
+
+Wallet kee bulchi, transaction fi asset kee hordofi.
+
+</p>
+
+<button class="primary-btn">
+
+Wallet Bani
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+📰 Crypto News
+</h3>
+
+<p>
+
+Oduu crypto fi blockchain haaraa guyyaa guyyaan argadhu.
+
+</p>
+
+<button class="primary-btn">
+
+Oduu Dubbisi
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🛡 Security Center
+</h3>
+
+<p>
+
+Scam irraa of eegi, wallet kee nageenyaan fayyadami.
+
+</p>
+
+<button class="primary-btn">
+
+Baradhu
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🌍 Web3 Hub
+</h3>
+
+<p>
+
+DAO, NFT, DeFi fi teknolojii Web3 qoradhu.
+
+</p>
+
+<button class="primary-btn">
+
+Jalqabi
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section><!-- ==========================================
+     INNOVATION HUB + AI
+========================================== -->
+
+<section class="innovation-hub section" id="innovation">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+💡 Innovation Hub + AI
+</h2>
+
+<p>
+
+Yaada kee gara project, startup fi business dijitaalaatti jijjiiri.
+Oromiyaa AI si gargaara.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+🚀 Startup Ideas
+</h3>
+
+<p>
+
+Yaada startup kee barreessi, hawaasaaf qoodi fi deeggarsa argadhu.
+
+</p>
+
+<button class="primary-btn">
+
+Yaada Galchi
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🤖 AI Project Assistant
+</h3>
+
+<p>
+
+Oromiyaa AI project kee karoorsu, code barreessu fi rakkoo furuu keessatti si gargaara.
+
+</p>
+
+<button class="primary-btn">
+
+AI Jalqabi
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+👨‍💻 Open Source Projects
+</h3>
+
+<p>
+
+Project open source irratti hirmaadhu ykn project kee banaa godhi.
+
+</p>
+
+<button class="primary-btn">
+
+Projects Ilaali
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🏆 Innovation Challenge
+</h3>
+
+<p>
+
+Dorgommii kalaqaa keessatti hirmaadhu, badhaasa fi beekamtii argadhu.
+
+</p>
+
+<button class="primary-btn">
+
+Hirmaadhu
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🤝 Team Finder
+</h3>
+
+<p>
+
+Developer, Designer, Marketer fi namoota project kee waliin hojjetan barbaadi.
+
+</p>
+
+<button class="primary-btn">
+
+Garee Barbaadi
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+💰 Investment Hub
+</h3>
+
+<p>
+
+Investor fi startup wal qunnamsiisuun project gaarii guddisuuf carraa uuma.
+
+</p>
+
+<button class="primary-btn">
+
+Bal'inaan Ilaali
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section><!-- ==========================================
+     CREATOR ECONOMY & EARN CENTER
+========================================== -->
+
+<section class="creator-economy section" id="earn">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+💰 Creator Economy & Earn Center
+</h2>
+
+<p>
+
+Beekumsa kee, hojii kee fi content kee irraa galii argadhu.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+🎥 Video Monetization
+</h3>
+
+<p>
+
+Video maxxansi, views fi engagement irraa galii argadhu.
+
+</p>
+
+<button class="primary-btn">
+
+Jalqabi
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🎁 Gifts & Support
+</h3>
+
+<p>
+
+Fayyadamtoonni hojii kee jaallatan gift fi support siif erguu danda'u.
+
+</p>
+
+<button class="primary-btn">
+
+Ilaali
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+⭐ Premium Membership
+</h3>
+
+<p>
+
+Followeroota keef content addaa qopheessi.
+
+</p>
+
+<button class="primary-btn">
+
+Premium Bani
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+💎 Subscription
+</h3>
+
+<p>
+
+Ji'aan maallaqa argachuuf subscription uumi.
+
+</p>
+
+<button class="primary-btn">
+
+Jalqabi
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+💵 Monthly Earnings
+</h3>
+
+<p>
+
+Galii kee guyyaa, torban fi ji'aan hordofi.
+
+</p>
+
+<button class="primary-btn">
+
+Dashboard
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🏦 Withdraw Money
+</h3>
+
+<p>
+
+Telebirr, CBE, Bank fi payment birotti galii kee fudhadhu.
+
+</p>
+
+<button class="primary-btn">
+
+Baasi
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section><!-- ==========================================
+     SMART DASHBOARD
+========================================== -->
+
+<section class="smart-dashboard section" id="dashboard">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+📊 Smart Dashboard
+</h2>
+
+<p>
+
+Hojii kee, barnoota kee, galii kee fi guddina kee bakka tokkootti hordofi.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+<h3>🔥 Daily Streak</h3>
+<p>Guyyaa walitti aansee app fayyadamaa jirta.</p>
+</div>
+
+<div class="card">
+<h3>⭐ Level</h3>
+<p>XP fi sadarkaa kee yeroo hunda ilaali.</p>
+</div>
+
+<div class="card">
+<h3>🏅 Badges</h3>
+<p>Milkaa'ina kee irraa badge adda addaa argadhu.</p>
+</div>
+
+<div class="card">
+<h3>📚 Learning Progress</h3>
+<p>Course xumurtee fi kan hafan hordofi.</p>
+</div>
+
+<div class="card">
+<h3>🎥 My Content</h3>
+<p>Video, suuraa fi post kee bulchi.</p>
+</div>
+
+<div class="card">
+<h3>💰 Earnings</h3>
+<p>Galii kee guyyaa, torban fi ji'aan ilaali.</p>
+</div>
+
+<div class="card">
+<h3>🤖 AI Assistant</h3>
+<p>Oromiyaa AI yeroo barbaadde akka gargaaraatti waami.</p>
+</div>
+
+<div class="card">
+<h3>⚙️ Settings</h3>
+<p>Afaan, theme fi account settings jijjiiri.</p>
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     OPPORTUNITY CENTER
+========================================== -->
+
+<section class="opportunity-center section" id="opportunities">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🌍 Opportunity Center
+</h2>
+
+<p>
+
+Carraa hojii, scholarship, internship, grants fi dorgommii bakka tokkootti argadhu.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+💼 Jobs
+</h3>
+
+<p>
+Carraa hojii biyya keessaa fi addunyaa ilaali.
+</p>
+
+<button class="primary-btn">
+Ilaali
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🎓 Scholarships
+</h3>
+
+<p>
+Scholarship fi deeggarsa barnootaa argadhu.
+</p>
+
+<button class="primary-btn">
+Ilaali
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🤝 Internships
+</h3>
+
+<p>
+Internship fi leenjii hojii keessatti hirmaadhu.
+</p>
+
+<button class="primary-btn">
+Ilaali
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🚀 Startup Grants
+</h3>
+
+<p>
+Startup fi innovation project keef deeggarsa maallaqaa barbaadi.
+</p>
+
+<button class="primary-btn">
+Ilaali
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🏆 Competitions
+</h3>
+
+<p>
+Dorgommii programming, AI, business fi creator keessatti hirmaadhu.
+</p>
+
+<button class="primary-btn">
+Hirmaadhu
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🌐 Remote Work
+</h3>
+
+<p>
+Hojii online fi remote addunyaa irraa barbaadi.
+</p>
+
+<button class="primary-btn">
+Barbaadi
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section><!-- ==========================================
+     PODCAST CENTER
+========================================== -->
+
+<section class="podcast-center section" id="podcasts">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🎙 Podcast Center
+</h2>
+
+<p>
+
+Podcast Afaan Oromoo fi afaanota biroon Teknooloojii, Business, AI fi Barnoota dhaggeeffadhu.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>🎧 Technology Podcast</h3>
+
+<p>Programming, Software fi Technology haaraa.</p>
+
+<button class="primary-btn">
+Dhaggeeffadhu
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>🤖 AI Podcast</h3>
+
+<p>Artificial Intelligence fi gara fuulduraa.</p>
+
+<button class="primary-btn">
+Dhaggeeffadhu
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>💼 Business Podcast</h3>
+
+<p>Entrepreneurship, Startup fi Investment.</p>
+
+<button class="primary-btn">
+Dhaggeeffadhu
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     LEARNING GAMES
+========================================== -->
+
+<section class="learning-games section" id="games">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🎮 Learning Games
+</h2>
+
+<p>
+
+Taphachuun Programming, AI, Crypto fi English baradhu.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>💻 Programming Quiz</h3>
+
+<p>HTML, CSS, JavaScript fi Python.</p>
+
+</div>
+
+<div class="card">
+
+<h3>🤖 AI Challenge</h3>
+
+<p>AI fi Prompt Engineering shaakali.</p>
+
+</div>
+
+<div class="card">
+
+<h3>🪙 Crypto Quiz</h3>
+
+<p>Blockchain fi Cryptocurrency qoradhu.</p>
+
+</div>
+
+<div class="card">
+
+<h3>🇬🇧 English Challenge</h3>
+
+<p>English guyyaa guyyaan shaakali.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     LIVE EVENTS
+========================================== -->
+
+<section class="live-events section" id="events">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+📅 Live Events
+</h2>
+
+<p>
+
+Webinar, Tech Conference, AI Live fi Sports Live hordofi.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>🎤 Weekly Webinar</h3>
+
+<p>Torban torbaniin leenjii bilisaa.</p>
+
+</div>
+
+<div class="card">
+
+<h3>🤖 AI Live</h3>
+
+<p>AI Experts waliin marii kallattii.</p>
+
+</div>
+
+<div class="card">
+
+<h3>⚽ Sports Live</h3>
+
+<p>Oduu fi marii kubbaa miilaa kallattii.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     VOLUNTEER PLATFORM
+========================================== -->
+
+<section class="volunteer-platform section" id="volunteer">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+❤️ Volunteer Platform
+</h2>
+
+<p>
+
+Hawaasa tajaajiluuf, NGO fi Community Projects keessatti hirmaadhu.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>🌱 Community Project</h3>
+
+<p>Project hawaasaa keessatti hirmaadhu.</p>
+
+</div>
+
+<div class="card">
+
+<h3>📚 Teach Others</h3>
+
+<p>Beekumsa kee namoota biroof qoodi.</p>
+
+</div>
+
+<div class="card">
+
+<h3>🤝 NGO Opportunities</h3>
+
+<p>NGO fi hojii tola ooltummaa barbaadi.</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section><!-- ==========================================
+     DIGITAL PORTFOLIO & VERIFIED SKILLS
+========================================== -->
+
+<section class="digital-portfolio section" id="portfolio">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+👤 Digital Portfolio
+</h2>
+
+<p>
+
+Portfolio dijitaalaa kee ijaari. Skills, Projects, Certificates fi Experience kee agarsiisi.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+📂 My Projects
+</h3>
+
+<p>
+
+Projects Programming, Design, AI fi Business kee agarsiisi.
+
+</p>
+
+<button class="primary-btn">
+
+Portfolio Ilaali
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+📜 Certificates
+</h3>
+
+<p>
+
+Certificates course xumurtee argatte walitti qabi.
+
+</p>
+
+<button class="primary-btn">
+
+Certificates
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+✅ Verified Skills
+</h3>
+
+<p>
+
+HTML, CSS, JavaScript, AI, Crypto fi skills biroo mirkanaa'an.
+
+</p>
+
+<button class="primary-btn">
+
+Skills Ilaali
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+💼 Experience
+</h3>
+
+<p>
+
+Muuxannoo hojii fi hojii volunteer kee galmeessi.
+
+</p>
+
+<button class="primary-btn">
+
+Experience
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🌐 Personal Website
+</h3>
+
+<p>
+
+Website, GitHub fi LinkedIn kee walitti hidhadhu.
+
+</p>
+
+<button class="primary-btn">
+
+Connect
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+📄 Resume / CV
+</h3>
+
+<p>
+
+CV kee upload godhi fi yeroo barbaachisutti qoodi.
+
+</p>
+
+<button class="primary-btn">
+
+Upload CV
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     ACHIEVEMENTS & HALL OF FAME
+========================================== -->
+
+<section class="hall-of-fame section" id="hall-of-fame">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🏆 Hall of Fame
+</h2>
+
+<p>
+
+Fayyadamtoota hojii, barnoota fi kalaqaan milkaa'an beekamtii kenni.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+🥇 Top Creator
+</h3>
+
+<p>
+
+Creator ji'a kanaa.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+📚 Top Learner
+</h3>
+
+<p>
+
+Barataa ji'a kanaa.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+💡 Top Innovator
+</h3>
+
+<p>
+
+Kalaqaa fi Startup gaarii.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+❤️ Community Hero
+</h3>
+
+<p>
+
+Namoota hawaasa tajaajilan.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+🌍 Ambassador
+</h3>
+
+<p>
+
+Bakka bu'aa Oromiyaa Digital.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+🚀 Rising Star
+</h3>
+
+<p>
+
+Fayyadamaa haaraa saffisaan guddachaa jiru.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section><!-- ==========================================
+     LEARNING CENTER PREMIUM
+========================================== -->
+
+<section class="learning-center section" id="learning">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🏫 Learning Center Premium
+</h2>
+
+<p>
+
+Programming, AI, Business, Crypto fi ogummaa adda addaa sadarkaa addunyaatti baradhu.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+💻 Programming
+</h3>
+
+<p>
+
+HTML, CSS, JavaScript, Python, Java, C++, React fi Technology haaraa baradhu.
+
+</p>
+
+<button class="primary-btn">
+
+Course Jalqabi
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🤖 Artificial Intelligence
+</h3>
+
+<p>
+
+AI, Machine Learning, Prompt Engineering fi Robotics baradhu.
+
+</p>
+
+<button class="primary-btn">
+
+Baradhu
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🪙 Crypto & Blockchain
+</h3>
+
+<p>
+
+Bitcoin, Ethereum, Blockchain, Web3 fi Digital Finance baradhu.
+
+</p>
+
+<button class="primary-btn">
+
+Baradhu
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+💼 Business
+</h3>
+
+<p>
+
+Entrepreneurship, Marketing, Finance fi Startup Management baradhu.
+
+</p>
+
+<button class="primary-btn">
+
+Baradhu
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🎨 Design
+</h3>
+
+<p>
+
+UI/UX Design, Graphic Design, Video Editing fi Animation baradhu.
+
+</p>
+
+<button class="primary-btn">
+
+Baradhu
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🌍 Languages
+</h3>
+
+<p>
+
+Afaan Oromoo, English fi afaanota biroo sadarkaa adda addaatti baradhu.
+
+</p>
+
+<button class="primary-btn">
+
+Baradhu
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     EXAMS & CERTIFICATES
+========================================== -->
+
+<section class="exam-center section">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🎓 Exams & Certificates
+</h2>
+
+<p>
+
+Course xumurtee exam fudhadhu; yoo darbite certificate argatta.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+📝 Online Exams
+</h3>
+
+<p>
+
+Quiz, Assignment fi Final Exam online irratti fudhadhu.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+📜 Digital Certificate
+</h3>
+
+<p>
+
+Certificate dijitaalaa profile kee irratti mul'atu argadhu.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+✅ Verified Skills
+</h3>
+
+<p>
+
+Exam darbitee skill kee mirkaneeffadhu.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     AI TUTOR
+========================================== -->
+
+<section class="ai-tutor section">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🤖 AI Tutor
+</h2>
+
+<p>
+
+Oromiyaa AI yeroo hunda akka barsiisaa dhuunfaatti si gargaara.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+📖 Explain Lesson
+</h3>
+
+<p>
+
+Barnoota siif ibsa.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+💬 Ask Questions
+</h3>
+
+<p>
+
+Gaaffii kamiyyuu gaafadhu.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+🧠 Practice Together
+</h3>
+
+<p>
+
+AI waliin shaakali.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     LEARNING PROGRESS
+========================================== -->
+
+<section class="learning-progress section">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+📈 Learning Progress
+</h2>
+
+<p>
+
+Guddina barnoota kee hordofi.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+🔥 Daily Streak
+</h3>
+
+<p>
+
+Guyyaa walitti aansee baratte.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+⭐ XP Points
+</h3>
+
+<p>
+
+XP walitti qabi.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+🏅 Achievement
+</h3>
+
+<p>
+
+Milkaa'ina kee argisiisi.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     DAILY CHALLENGES
+========================================== -->
+
+<section class="daily-challenges section">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🧠 Daily Challenges
+</h2>
+
+<p>
+
+Guyyaa hunda challenge haaraa xumuruun XP fi Badge argadhu.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+💻 Programming Challenge
+</h3>
+
+</div>
+
+<div class="card">
+
+<h3>
+🤖 AI Challenge
+</h3>
+
+</div>
+
+<div class="card">
+
+<h3>
+🪙 Crypto Challenge
+</h3>
+
+</div>
+
+<div class="card">
+
+<h3>
+🇬🇧 English Challenge
+</h3>
+
+</div>
+
+</div>
+
+</div>
+
+</section><!-- ==========================================
+     MARKETPLACE PREMIUM
+========================================== -->
+
+<section class="marketplace section" id="marketplace">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🛍 Marketplace Premium
+</h2>
+
+<p>
+
+Meeshaalee, Digital Products fi Tajaajila bakka tokkootti bitadhu fi gurguri.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+📱 Electronics
+</h3>
+
+<p>
+
+Smartphone, Laptop, Accessories fi Electronics biroo.
+
+</p>
+
+<button class="primary-btn">
+
+Ilaali
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+👕 Fashion
+</h3>
+
+<p>
+
+Uffata, Kophee, Watch fi Fashion Products.
+
+</p>
+
+<button class="primary-btn">
+
+Bitadhu
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+📚 Books
+</h3>
+
+<p>
+
+Books, E-books fi Educational Materials.
+
+</p>
+
+<button class="primary-btn">
+
+Dubbisi
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+💻 Software & Templates
+</h3>
+
+<p>
+
+Website Templates, Apps, Source Code fi Software.
+
+</p>
+
+<button class="primary-btn">
+
+Download
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+🎨 Digital Products
+</h3>
+
+<p>
+
+Graphics, UI Kits, Icons, Fonts fi Digital Assets.
+
+</p>
+
+<button class="primary-btn">
+
+Ilaali
+
+</button>
+
+</div>
+
+<div class="card">
+
+<h3>
+💼 Freelance Services
+</h3>
+
+<p>
+
+Programming, Design, Translation fi Consulting.
+
+</p>
+
+<button class="primary-btn">
+
+Tajaajila Barbaadi
+
+</button>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ==========================================
+     SHOPPING FEATURES
+========================================== -->
+
+<section class="shopping-features section">
+
+<div class="container">
+
+<div class="section-header">
+
+<h2>
+🛒 Smart Shopping
+</h2>
+
+<p>
+
+Bitachuu fi gurguruun salphaa fi nageenyaan akka raawwatamu.
+
+</p>
+
+</div>
+
+<div class="cards">
+
+<div class="card">
+
+<h3>
+⭐ Reviews & Ratings
+</h3>
+
+<p>
+
+Bitattoonni yaada isaanii kennu.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+🛒 Smart Cart
+</h3>
+
+<p>
+
+Meeshaa hedduu cart keessa galchii yeroo tokkoon bitadhu.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+🚚 Delivery Tracking
+</h3>
+
+<p>
+
+Ajaja kee eessa akka ga'e hordofi.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+💳 Secure Payments
+</h3>
+
+<p>
+
+Telebirr, CBE Birr, M-Pesa fi payment methods biroon kaffali.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+🏪 Become a Seller
+</h3>
+
+<p>
+
+Shop kee banii oomisha kee addunyaatti gurguri.
+
+</p>
+
+</div>
+
+<div class="card">
+
+<h3>
+🎁 Special Offers
+</h3>
+
+<p>
+
+Discount, Coupons fi Offers addaa argadhu.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
