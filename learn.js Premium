@@ -1,1 +1,224 @@
+/* ==========================================
+   OROMIYAA DIGITAL
+   LEARN PAGE JAVASCRIPT
+========================================== */
 
+document.addEventListener("DOMContentLoaded", () => {
+
+    console.log("Learn Page Loaded Successfully");
+
+});
+
+
+/* ==========================================
+   SMART SEARCH
+========================================== */
+
+const searchInput = document.querySelector(".search-box input");
+
+const searchButton = document.querySelector(".search-box button");
+
+if(searchButton){
+
+    searchButton.addEventListener("click",()=>{
+
+        const keyword = searchInput.value.trim();
+
+        if(keyword===""){
+
+            alert("Please enter a course name.");
+
+            return;
+
+        }
+
+        alert("Searching for: "+keyword);
+
+    });
+
+}
+
+
+/* ==========================================
+   WISHLIST BUTTON
+========================================== */
+
+const wishlistButtons=document.querySelectorAll(".wishlist-btn");
+
+wishlistButtons.forEach(btn=>{
+
+    btn.addEventListener("click",()=>{
+
+        btn.classList.toggle("active");
+
+        if(btn.classList.contains("active")){
+
+            btn.innerHTML="💚";
+
+        }else{
+
+            btn.innerHTML="❤️";
+
+        }
+
+    });
+
+});
+
+
+/* ==========================================
+   VIDEO BUTTONS
+========================================== */
+
+const videoButtons=document.querySelectorAll(".video-actions button");
+
+videoButtons.forEach(button=>{
+
+    button.addEventListener("click",()=>{
+
+        console.log(button.innerText);
+
+    });/* ==========================================
+   CONTINUE LEARNING
+========================================== */
+
+const continueButton = document.querySelector(".continue-card .btn-primary");
+
+if(continueButton){
+
+    continueButton.addEventListener("click",(e)=>{
+
+        e.preventDefault();
+
+        alert("Welcome back! Your learning journey continues.");
+
+    });
+
+}
+
+
+/* ==========================================
+   AI TUTOR DEMO
+========================================== */
+
+const aiInput=document.querySelector(".ai-search input");
+
+const aiButton=document.querySelector(".ai-search button");
+
+if(aiButton){
+
+    aiButton.addEventListener("click",()=>{
+
+        const question=aiInput.value.trim();
+
+        if(question===""){
+
+            alert("Please ask a question.");
+
+            return;
+
+        }
+
+        alert("AI Tutor received your question:\n\n"+question);
+
+        aiInput.value="";
+
+    });
+
+}
+
+
+/* ==========================================
+   PROGRESS BAR ANIMATION
+========================================== */
+
+const progressBar=document.querySelector(".progress-bar");
+
+if(progressBar){
+
+    setTimeout(()=>{
+
+        progressBar.style.width="45%";
+
+    },500);
+
+}
+
+
+/* ==========================================
+   FADE IN ANIMATION
+========================================== */
+
+const sections=document.querySelectorAll("section");
+
+const observer=new IntersectionObserver((entries)=>{
+
+    entries.forEach(entry=>{
+
+        if(entry.isIntersecting){
+
+            entry.target.classList.add("show");
+
+        }
+
+    });
+
+},{
+    threshold:.15
+});
+
+sections.forEach(section=>{
+
+    section.classList.add("hidden");
+
+    observer.observe(section);
+
+});
+
+
+/* ==========================================
+   SCROLL TO TOP
+========================================== */
+
+const scrollTopButton=document.createElement("button");
+
+scrollTopButton.innerHTML="⬆";
+
+scrollTopButton.className="scroll-top";
+
+document.body.appendChild(scrollTopButton);
+
+window.addEventListener("scroll",()=>{
+
+    if(window.scrollY>500){
+
+        scrollTopButton.classList.add("show");
+
+    }else{
+
+        scrollTopButton.classList.remove("show");
+
+    }
+
+});
+
+scrollTopButton.addEventListener("click",()=>{
+
+    window.scrollTo({
+
+        top:0,
+
+        behavior:"smooth"
+
+    });
+
+});
+
+
+/* ==========================================
+   END
+========================================== */
+
+console.log("Learn Module Version 1.0 Ready");
+
+});
