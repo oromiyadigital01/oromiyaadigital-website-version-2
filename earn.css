@@ -1,1 +1,440 @@
+/* ==========================================
+   OROMIYAA DIGITAL
+   EARN MODULE PREMIUM CSS
+========================================== */
 
+:root{
+
+    --primary:#0b2a5b;
+    --secondary:#1d4ed8;
+    --accent:#16a34a;
+
+    --background:#f5f7fb;
+    --surface:#ffffff;
+
+    --text:#1f2937;
+    --text-light:#6b7280;
+
+    --border:#e5e7eb;
+
+    --shadow:0 15px 35px rgba(0,0,0,.08);
+
+    --radius:20px;
+
+}
+
+body{
+
+    font-family:'Poppins',sans-serif;
+
+    background:var(--background);
+
+    color:var(--text);
+
+}
+
+section{
+
+    padding:90px 0;
+
+}
+
+.container{
+
+    width:min(1200px,92%);
+
+    margin:auto;
+
+}
+
+.section-title{
+
+    text-align:center;
+
+    margin-bottom:60px;
+
+}
+
+.section-title h2{
+
+    font-size:2.5rem;
+
+    color:var(--primary);
+
+    margin-bottom:15px;
+
+}
+
+.section-title p{
+
+    color:var(--text-light);
+
+    max-width:700px;
+
+    margin:auto;
+
+}/* ==========================================
+   HERO
+========================================== */
+
+.earn-hero{
+
+    padding:140px 0;
+
+    color:#fff;
+
+    background:
+
+    linear-gradient(rgba(6,22,47,.82),
+
+    rgba(11,42,91,.82)),
+
+    url("../images/earn-hero.jpg");
+
+    background-size:cover;
+
+    background-position:center;
+
+}
+
+.hero-badge{
+
+    display:inline-block;
+
+    padding:12px 20px;
+
+    border-radius:50px;
+
+    background:rgba(255,255,255,.15);
+
+    backdrop-filter:blur(10px);
+
+    margin-bottom:20px;
+
+}
+
+.earn-hero h1{
+
+    font-size:3.7rem;
+
+    margin-bottom:20px;
+
+}
+
+.earn-hero p{
+
+    max-width:700px;
+
+    margin-bottom:35px;
+
+}
+
+.hero-buttons{
+
+    display:flex;
+
+    gap:20px;
+
+    flex-wrap:wrap;
+
+}/* ==========================================
+   OPPORTUNITIES
+========================================== */
+
+.opportunity-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+
+    gap:30px;
+
+}
+
+.opportunity-card{
+
+    background:#fff;
+
+    padding:35px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:var(--shadow);
+
+    transition:.35s;
+
+}
+
+.opportunity-card:hover{
+
+    transform:translateY(-10px);
+
+}
+
+.opportunity-card h3{
+
+    color:var(--primary);
+
+    margin:20px 0;
+
+}
+
+.opportunity-card a{
+
+    color:var(--accent);
+
+    font-weight:600;
+
+    text-decoration:none;
+
+}/* ==========================================
+   DASHBOARD
+========================================== */
+
+.dashboard-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+
+    gap:25px;
+
+}
+
+.dashboard-card{
+
+    background:#fff;
+
+    padding:35px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:var(--shadow);
+
+    transition:.35s;
+
+}
+
+.dashboard-card:hover{
+
+    transform:translateY(-10px);
+
+}
+
+.dashboard-card strong{
+
+    display:block;
+
+    margin-top:20px;
+
+    font-size:2rem;
+
+    color:var(--accent);
+
+}/* ==========================================
+   WITHDRAW CENTER
+========================================== */
+
+.withdraw-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(280px,1fr));
+
+    gap:30px;
+
+}
+
+.withdraw-card{
+
+    background:#fff;
+
+    padding:35px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:var(--shadow);
+
+    transition:.35s;
+
+    border:1px solid var(--border);
+
+}
+
+.withdraw-card:hover{
+
+    transform:translateY(-10px);
+
+    border-color:var(--accent);
+
+}
+
+.withdraw-card h3{
+
+    margin:20px 0;
+
+    color:var(--primary);
+
+  }/* ==========================================
+   PAYMENT HISTORY
+========================================== */
+
+.payment-history{
+
+    overflow-x:auto;
+
+}
+
+.payment-history table{
+
+    width:100%;
+
+    border-collapse:collapse;
+
+    background:#fff;
+
+    border-radius:20px;
+
+    overflow:hidden;
+
+    box-shadow:var(--shadow);
+
+}
+
+.payment-history th{
+
+    background:var(--primary);
+
+    color:#fff;
+
+    padding:18px;
+
+}
+
+.payment-history td{
+
+    padding:18px;
+
+    border-bottom:1px solid var(--border);
+
+                                 }/* ==========================================
+   REFERRAL
+========================================== */
+
+.referral-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+
+    gap:30px;
+
+}
+
+.referral-card{
+
+    background:linear-gradient(135deg,#16a34a,#22c55e);
+
+    color:#fff;
+
+    padding:35px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:var(--shadow);
+
+}
+
+.referral-card h3{
+
+    margin:20px 0;
+
+}/* ==========================================
+   REWARDS
+========================================== */
+
+.reward-grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+
+    gap:25px;
+
+}
+
+.reward-card{
+
+    background:#fff;
+
+    padding:30px;
+
+    border-radius:20px;
+
+    text-align:center;
+
+    box-shadow:var(--shadow);
+
+    transition:.35s;
+
+}
+
+.reward-card:hover{
+
+    transform:scale(1.05);
+
+}/* ==========================================
+   RESPONSIVE
+========================================== */
+
+@media(max-width:768px){
+
+.hero-buttons{
+
+flex-direction:column;
+
+}
+
+.section-title h2{
+
+font-size:2rem;
+
+}
+
+}
+
+@media(max-width:576px){
+
+section{
+
+padding:70px 0;
+
+}
+
+.earn-hero h1{
+
+font-size:2.3rem;
+
+}
+
+.dashboard-card,
+
+.opportunity-card,
+
+.withdraw-card,
+
+.reward-card{
+
+padding:25px;
+
+}
+
+}
