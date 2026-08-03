@@ -363,4 +363,114 @@ document.querySelectorAll(".counter").forEach(counter=>{
 
     },30);
 
-});
+});/* ==========================================
+   SMART SEARCH
+========================================== */
+
+const searchInput = document.querySelector("#creatorSearch");
+
+if(searchInput){
+
+    searchInput.addEventListener("keyup",()=>{
+
+        const value = searchInput.value.toLowerCase();
+
+        document.querySelectorAll(".studio-card").forEach(card=>{
+
+            const text = card.textContent.toLowerCase();
+
+            card.style.display = text.includes(value)
+                ? "block"
+                : "none";
+
+        });
+
+    });
+
+}/* ==========================================
+   FAVORITE TOOLS
+========================================== */
+
+document.querySelectorAll(".favorite-tool").forEach(button=>{
+
+    button.addEventListener("click",()=>{
+
+        button.classList.toggle("active");
+
+        showNotification("⭐ Tool added to Favorites");
+
+    });/* ==========================================
+   COPY CAPTION
+========================================== */
+
+const copyCaption = document.querySelector("#copyCaption");
+
+if(copyCaption && captionBox){
+
+    copyCaption.addEventListener("click",async()=>{
+
+        try{
+
+            await navigator.clipboard.writeText(captionBox.value);
+
+            showNotification("📋 Caption copied");
+
+        }catch{
+
+            showNotification("❌ Copy failed");
+
+        }
+
+    });
+
+}
+
+});/* ==========================================
+   CLEAR DRAFT
+========================================== */
+
+const clearDraft = document.querySelector("#clearDraft");
+
+if(clearDraft){
+
+    clearDraft.addEventListener("click",()=>{
+
+        localStorage.removeItem("creator_title");
+
+        localStorage.removeItem("creator_caption");
+
+        if(titleInput) titleInput.value = "";
+
+        if(captionInput) captionInput.value = "";
+
+        showNotification("🗑 Draft cleared");
+
+    });
+
+}/* ==========================================
+   DAILY GOAL
+========================================== */
+
+const dailyGoals = [
+
+"🎥 Upload one Short Video",
+
+"📝 Write one new script",
+
+"🎨 Design one thumbnail",
+
+"📚 Learn one editing skill",
+
+"💬 Reply to your community"
+
+];
+
+const goalBox = document.querySelector("#dailyGoal");
+
+if(goalBox){
+
+    const random = Math.floor(Math.random()*dailyGoals.length);
+
+    goalBox.textContent = dailyGoals[random];
+
+}
